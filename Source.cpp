@@ -621,7 +621,7 @@ int main()
 					if (randomNumber >= yourOpponentsHP)
 					{
 						cout << "Clefairy couldn't get out of the Poke Ball." << endl;
-						cout << "COngratulations! You have caught Clefairy!" << endl;
+						cout << "Congratulations! You have caught Clefairy!" << endl;
 						cout << endl;
 						system("pause");
 						return 0;
